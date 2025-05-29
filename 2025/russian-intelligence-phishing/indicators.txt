@@ -42,6 +42,7 @@ legionliberty.agency
 legionliberty.xyz
 legion-svoboda.com
 legionlibertys.ru
+legionliberty.space
 xn-----7kcdeekd2agaz3andbd9alja.com
 rdk.social
 ruvolcor.com
@@ -74,5 +75,6 @@ hochyzhit.com
 hochuzhitlife.com
 hochuzhit.life
 hochuzhits.com
+hochuzhit.tech
 jagotovoff.com
 jagotov.icu
