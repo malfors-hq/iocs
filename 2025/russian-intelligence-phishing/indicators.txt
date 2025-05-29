@@ -41,6 +41,7 @@ libertylegion.army
 legionliberty.agency
 legionliberty.xyz
 legion-svoboda.com
+legion-svobodi.com
 legionlibertys.ru
 legionliberty.space
 xn-----7kcdeekd2agaz3andbd9alja.com
@@ -67,6 +68,7 @@ rusvolscorps.com
 rusvoluntarycorps.com
 rusvokcorps.icu
 rdk-svoboda.com
+rdk-svobodi.com
 rusvolcrops.com
 rusvolcrops.net
 rusvokcorps.ru
